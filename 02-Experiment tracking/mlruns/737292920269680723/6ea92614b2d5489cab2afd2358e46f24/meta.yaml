@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/737292920269680723/6ea92614b2d5489cab2afd2358e46f24/artifacts
+end_time: 1748520337461
+entry_point_name: ''
+experiment_id: '737292920269680723'
+lifecycle_stage: active
+run_id: 6ea92614b2d5489cab2afd2358e46f24
+run_name: gifted-grouse-918
+run_uuid: 6ea92614b2d5489cab2afd2358e46f24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748520316313
+status: 3
+tags: []
+user_id: codespace

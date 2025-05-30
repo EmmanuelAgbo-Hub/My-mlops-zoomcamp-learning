@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/651912994835839713/847c4e38934a484ebe4c0b4f4b2a020a/artifacts
+end_time: 1748538539457
+entry_point_name: ''
+experiment_id: '651912994835839713'
+lifecycle_stage: active
+run_id: 847c4e38934a484ebe4c0b4f4b2a020a
+run_name: legendary-shrike-482
+run_uuid: 847c4e38934a484ebe4c0b4f4b2a020a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748538533832
+status: 3
+tags: []
+user_id: codespace

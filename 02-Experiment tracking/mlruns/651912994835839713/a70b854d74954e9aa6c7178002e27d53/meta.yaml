@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/651912994835839713/a70b854d74954e9aa6c7178002e27d53/artifacts
+end_time: 1748538547595
+entry_point_name: ''
+experiment_id: '651912994835839713'
+lifecycle_stage: active
+run_id: a70b854d74954e9aa6c7178002e27d53
+run_name: spiffy-perch-11
+run_uuid: a70b854d74954e9aa6c7178002e27d53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748538539475
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/651912994835839713/4c1f56b29334479282f790749dad15e3/artifacts
+end_time: 1748538597076
+entry_point_name: ''
+experiment_id: '651912994835839713'
+lifecycle_stage: active
+run_id: 4c1f56b29334479282f790749dad15e3
+run_name: able-snake-838
+run_uuid: 4c1f56b29334479282f790749dad15e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748538590135
+status: 3
+tags: []
+user_id: codespace

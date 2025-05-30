@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/651912994835839713/3c762600596444299847592d5c48802c/artifacts
+end_time: 1748538525793
+entry_point_name: ''
+experiment_id: '651912994835839713'
+lifecycle_stage: active
+run_id: 3c762600596444299847592d5c48802c
+run_name: whimsical-shrike-188
+run_uuid: 3c762600596444299847592d5c48802c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748538517292
+status: 3
+tags: []
+user_id: codespace

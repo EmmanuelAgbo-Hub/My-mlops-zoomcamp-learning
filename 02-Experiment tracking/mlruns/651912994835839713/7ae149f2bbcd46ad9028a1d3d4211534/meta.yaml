@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/651912994835839713/7ae149f2bbcd46ad9028a1d3d4211534/artifacts
+end_time: 1748538490605
+entry_point_name: ''
+experiment_id: '651912994835839713'
+lifecycle_stage: active
+run_id: 7ae149f2bbcd46ad9028a1d3d4211534
+run_name: funny-swan-586
+run_uuid: 7ae149f2bbcd46ad9028a1d3d4211534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748538475807
+status: 3
+tags: []
+user_id: codespace

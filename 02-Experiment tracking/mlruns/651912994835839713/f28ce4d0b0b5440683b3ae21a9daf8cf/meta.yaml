@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/651912994835839713/f28ce4d0b0b5440683b3ae21a9daf8cf/artifacts
+end_time: 1748538517271
+entry_point_name: ''
+experiment_id: '651912994835839713'
+lifecycle_stage: active
+run_id: f28ce4d0b0b5440683b3ae21a9daf8cf
+run_name: placid-mink-114
+run_uuid: f28ce4d0b0b5440683b3ae21a9daf8cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748538507405
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/651912994835839713/29e1090a7bb64ab08f1eb9889a97608d/artifacts
+end_time: 1748538507384
+entry_point_name: ''
+experiment_id: '651912994835839713'
+lifecycle_stage: active
+run_id: 29e1090a7bb64ab08f1eb9889a97608d
+run_name: abundant-bug-410
+run_uuid: 29e1090a7bb64ab08f1eb9889a97608d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748538496313
+status: 3
+tags: []
+user_id: codespace

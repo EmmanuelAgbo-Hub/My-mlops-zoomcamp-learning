@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/651912994835839713/1ed2dddf4b7c4a6982c65198fdf247d9/artifacts
+end_time: 1748538590116
+entry_point_name: ''
+experiment_id: '651912994835839713'
+lifecycle_stage: active
+run_id: 1ed2dddf4b7c4a6982c65198fdf247d9
+run_name: wistful-robin-188
+run_uuid: 1ed2dddf4b7c4a6982c65198fdf247d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748538577018
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/651912994835839713/e129e5e952fa42fdbc2aa40ca233401c/artifacts
+end_time: 1748538432676
+entry_point_name: ''
+experiment_id: '651912994835839713'
+lifecycle_stage: active
+run_id: e129e5e952fa42fdbc2aa40ca233401c
+run_name: orderly-rook-125
+run_uuid: e129e5e952fa42fdbc2aa40ca233401c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748538418381
+status: 3
+tags: []
+user_id: codespace

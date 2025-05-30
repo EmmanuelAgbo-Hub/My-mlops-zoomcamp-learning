@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/651912994835839713/d69e4cee78254d049e88a88355ac48fd/artifacts
+end_time: 1748538496293
+entry_point_name: ''
+experiment_id: '651912994835839713'
+lifecycle_stage: active
+run_id: d69e4cee78254d049e88a88355ac48fd
+run_name: masked-vole-675
+run_uuid: d69e4cee78254d049e88a88355ac48fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748538490625
+status: 3
+tags: []
+user_id: codespace

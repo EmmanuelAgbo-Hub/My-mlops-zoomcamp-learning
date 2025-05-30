@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/737292920269680723/2911b84b61c7481099a98bf876431158/artifacts
+end_time: 1748535287993
+entry_point_name: ''
+experiment_id: '737292920269680723'
+lifecycle_stage: active
+run_id: 2911b84b61c7481099a98bf876431158
+run_name: crawling-swan-13
+run_uuid: 2911b84b61c7481099a98bf876431158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748535266006
+status: 3
+tags: []
+user_id: codespace

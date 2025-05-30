@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/651912994835839713/1f5954840ac64f3192abe008758d82cf/artifacts
+end_time: 1748538461134
+entry_point_name: ''
+experiment_id: '651912994835839713'
+lifecycle_stage: active
+run_id: 1f5954840ac64f3192abe008758d82cf
+run_name: rumbling-vole-700
+run_uuid: 1f5954840ac64f3192abe008758d82cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748538453339
+status: 3
+tags: []
+user_id: codespace
