@@ -1,4 +1,4 @@
 # mlops-zoomcamp
-MLOP Zoomcamp repo is home to the courses I took at MLOPs Zoomcamp 2025
+My-mlops-Zoomcamp-learning repo is home to the courses I took at MLOPs Zoomcamp 2025
 
 Welcome to mlops zoomcamp
